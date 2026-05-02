@@ -1,0 +1,31 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.history/
+*.swp
+*.swo
+*~
+
+# Hugo temporary
+hugo_stats.json
+
+# Blogger export (large, not needed for site build)
+Takeout/
+
+# Script output
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Theme's nested git (we'll add the theme files directly)
+themes/PaperMod/.git
+.hugo_build.lock

@@ -1,0 +1,14 @@
+---
+title: "F(irst) Post"
+date: 2006-12-12T09:53:00Z
+lastmod: 2026-01-13T23:34:40.394Z
+aliases:
+  - /2006/12/first-post.html
+---
+A result of occasional endless boredom in the normal,virtual pressurized environment of a software company. Moreover, the merciless firewall has a softcorner for blogger, it hates LJ.
+
+I feel guilty sometimes, for not contributing as much as I could. Or, was it ever required? Oh yes, sometimes and I know it. But the definition of a team wont hold good for a speciment project, you cant afford crappy, slow movers. I see the result of it, that guy is working 18 hours a day - I know not what the reasons are... but I feel guilty.
+
+I came in at 6:30 a.m lured by its prospect of early return to home, jogging in the cool chilly evening breeze. But I didn't do anything useful, and the project is in a bad state. I feel guilty, but I am going home.
+
+\-- Dont stand, Run.
