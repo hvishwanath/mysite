@@ -27,5 +27,5 @@ __pycache__/
 .venv/
 
 # Theme's nested git (we'll add the theme files directly)
-themes/PaperMod/.git
+themes/blowfish/.git
 .hugo_build.lock

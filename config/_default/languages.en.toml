@@ -1,0 +1,20 @@
+locale = "en"
+weight = 1
+title = "Harish Vishwanath"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  dateFormat = "2 January 2006"
+  description = "Builder. Explorer. Infinite Learner."
+
+[params.author]
+  name = "Harish Vishwanath"
+  image = "img/author.jpg"
+  headline = "Builder. Explorer. Infinite Learner."
+  bio = "Director of Software Engineering at Cisco. I build systems, lead teams, and think in public about technology, leadership, and life."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/harishvishwanath/" },
+    { github = "https://github.com/hvishwanath" },
+    { email = "mailto:harish@hvishwanath.net" },
+  ]

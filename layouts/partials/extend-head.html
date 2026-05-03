@@ -1,0 +1,5 @@
+<!-- Cloudflare Web Analytics -->
+<!-- To activate: replace REPLACE_WITH_CF_TOKEN with your Cloudflare Web Analytics token from https://dash.cloudflare.com -->
+{{ if hugo.IsProduction }}
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "REPLACE_WITH_CF_TOKEN"}'></script>
+{{ end }}
