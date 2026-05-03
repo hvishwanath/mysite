@@ -15,7 +15,7 @@ This site is my corner of the internet — a place for writing, projects, photog
 
 ## Who are you?
 
-A dreamer. An explorer. And a happy programmer.
+Dreamer. Explorer. Builder. Infinite Learner. Student of Life.
 
 I am but a force, a ball of energy — here, by chance. My spirit is free, and each moment that passes, I work towards being free. I am a product of this earth and everything in the universe, and back there I go when my time comes.
 

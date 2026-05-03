@@ -18,11 +18,6 @@
   pageRef = "about"
   weight = 40
 
-[[main]]
-  identifier = "search"
-  pre = "search"
-  weight = 99
-
 [[footer]]
   name = "Tags"
   pageRef = "tags"
