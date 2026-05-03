@@ -7,7 +7,9 @@ tags:
 aliases:
   - /2007/01/simplicity.html
 ---
-Theorem : A dead clock is still useful - It shows correct time twice in a day. Corollary : A dead digital clock in 24 Hr format is less useful - its correct only once.
+Theorem : A dead clock is still useful - It shows correct time twice in a day.
+
+Corollary : A dead digital clock in 24 Hr format is less useful - its correct only once.
 
 Inference : Sometimes old, simple things are much better.
 
