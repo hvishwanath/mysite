@@ -7,7 +7,7 @@ showTableOfContents: true
 showPagination: false
 ---
 
-I'm **Harish Vishwanath** — Director of Software Engineering at Cisco, where I lead teams building security infrastructure that protects millions of users every day. I've spent two decades building systems, leading engineering organizations, and learning something new every single day.
+I'm **Harish Vishwanath** — an engineering leader with a deep-seated passion for both people and technology. I've spent two decades building systems, leading engineering organizations, and learning something new every single day.
 
 This site is my corner of the internet — a place for writing, projects, photographs, and the occasional philosophical musing.
 
@@ -41,7 +41,7 @@ And oh, I hate *shopping* in the conventional sense of the word.
 
 ## What do you do?
 
-I lead engineering teams at **Cisco** that build security infrastructure at scale — Secure Web Gateway, NAT as a Service, and policy enforcement systems that handle internet traffic for enterprises worldwide.
+I lead engineering teams that build and scale distributed systems and cloud infrastructure. My journey has taken me across diverse technical landscapes — from mainframes and embedded systems to cloud computing and security at scale. I thrive on empowering engineers, fostering technical excellence, and collaboratively tackling complex challenges to deliver innovative solutions.
 
 Beyond the day job, I love computers and am useful with most things related to them. I solve (and sometimes create) problems by writing software — for business, for pleasure, and for no reason at all.
 
